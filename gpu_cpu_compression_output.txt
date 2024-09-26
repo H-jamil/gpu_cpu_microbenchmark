@@ -1,0 +1,34 @@
+Run 1 of gpu_cpu_compression:
+Time taken to generate data (iteration 0): 1.408269 seconds
+Time taken to generate data (iteration 1): 1.402974 seconds
+Time taken to copy data (iteration 0): 0.160919 seconds
+Time taken to generate data (iteration 2): 2.807244 seconds
+Time taken to copy data (iteration 1): 0.320153 seconds
+Time taken to generate data (iteration 3): 2.808216 seconds
+Time taken to copy data (iteration 2): 0.319470 seconds
+Time taken to generate data (iteration 4): 2.808977 seconds
+Time taken to copy data (iteration 3): 0.318871 seconds
+Time taken to generate data (iteration 5): 2.807452 seconds
+Time taken to copy data (iteration 4): 0.314358 seconds
+Time taken to generate data (iteration 6): 2.807569 seconds
+Time taken to copy data (iteration 5): 0.318287 seconds
+Time taken to generate data (iteration 7): 2.800483 seconds
+Time taken to copy data (iteration 6): 0.314334 seconds
+Time taken to generate data (iteration 8): 2.806319 seconds
+Time taken to copy data (iteration 7): 0.318268 seconds
+Time taken to generate data (iteration 9): 2.811195 seconds
+Time taken to copy data (iteration 8): 0.318343 seconds
+Time taken to copy data (iteration 9): 0.314244 seconds
+Time taken to compress 200MB of data (iteration 0): 33.256361 seconds
+Time taken to compress 200MB of data (iteration 1): 20.658863 seconds
+Time taken to compress 200MB of data (iteration 2): 20.768511 seconds
+Time taken to compress 200MB of data (iteration 3): 20.606978 seconds
+Time taken to compress 200MB of data (iteration 4): 20.722770 seconds
+Time taken to compress 200MB of data (iteration 5): 20.610070 seconds
+Time taken to compress 200MB of data (iteration 6): 20.577682 seconds
+Time taken to compress 200MB of data (iteration 7): 20.605020 seconds
+Time taken to compress 200MB of data (iteration 8): 20.583859 seconds
+Time taken to compress 200MB of data (iteration 9): 20.581346 seconds
+Total time taken for all iterations: 209680 milliseconds
+
+Run 2 of gpu_cpu_compression:

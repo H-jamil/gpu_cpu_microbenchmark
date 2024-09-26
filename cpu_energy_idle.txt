@@ -1,0 +1,12 @@
+Energy used in second 1: 40.319171 J
+Energy used in second 2: 40.257099 J
+Energy used in second 3: 40.180256 J
+Energy used in second 4: 40.147969 J
+Energy used in second 5: 40.092060 J
+Energy used in second 6: 40.314839 J
+Energy used in second 7: 40.156391 J
+Energy used in second 8: 40.022114 J
+Energy used in second 9: 40.062031 J
+Energy used in second 10: 40.039998 J
+Total energy consumed: 401.591928 J over 10.01 seconds
+Per second energy consumption: ['40.319171 J', '40.257099 J', '40.180256 J', '40.147969 J', '40.092060 J', '40.314839 J', '40.156391 J', '40.022114 J', '40.062031 J', '40.039998 J']

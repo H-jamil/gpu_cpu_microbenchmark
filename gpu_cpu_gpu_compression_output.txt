@@ -1,0 +1,265 @@
+Run 1 of gpu_cpu_gpu_compression:
+Iteration 0 - GPU1 data generation: 1422 ms
+Iteration 0 - GPU1 to CPU transfer: 15 ms
+Iteration 0 - CPU to GPU2 transfer: 16 ms
+Iteration 0 - GPU2 compression: 3 ms
+
+Iteration 1 - GPU1 data generation: 1397 ms
+Iteration 1 - GPU1 to CPU transfer: 15 ms
+Iteration 1 - CPU to GPU2 transfer: 16 ms
+Iteration 1 - GPU2 compression: 2 ms
+
+Iteration 2 - GPU1 data generation: 1399 ms
+Iteration 2 - GPU1 to CPU transfer: 15 ms
+Iteration 2 - CPU to GPU2 transfer: 16 ms
+Iteration 2 - GPU2 compression: 2 ms
+
+Iteration 3 - GPU1 data generation: 1398 ms
+Iteration 3 - GPU1 to CPU transfer: 15 ms
+Iteration 3 - CPU to GPU2 transfer: 16 ms
+Iteration 3 - GPU2 compression: 2 ms
+
+Iteration 4 - GPU1 data generation: 1403 ms
+Iteration 4 - GPU1 to CPU transfer: 15 ms
+Iteration 4 - CPU to GPU2 transfer: 16 ms
+Iteration 4 - GPU2 compression: 2 ms
+
+Iteration 5 - GPU1 data generation: 1401 ms
+Iteration 5 - GPU1 to CPU transfer: 15 ms
+Iteration 5 - CPU to GPU2 transfer: 16 ms
+Iteration 5 - GPU2 compression: 2 ms
+
+Iteration 6 - GPU1 data generation: 1405 ms
+Iteration 6 - GPU1 to CPU transfer: 15 ms
+Iteration 6 - CPU to GPU2 transfer: 16 ms
+Iteration 6 - GPU2 compression: 2 ms
+
+Iteration 7 - GPU1 data generation: 1402 ms
+Iteration 7 - GPU1 to CPU transfer: 15 ms
+Iteration 7 - CPU to GPU2 transfer: 16 ms
+Iteration 7 - GPU2 compression: 2 ms
+
+Iteration 8 - GPU1 data generation: 1398 ms
+Iteration 8 - GPU1 to CPU transfer: 15 ms
+Iteration 8 - CPU to GPU2 transfer: 16 ms
+Iteration 8 - GPU2 compression: 2 ms
+
+Iteration 9 - GPU1 data generation: 1401 ms
+Iteration 9 - GPU1 to CPU transfer: 15 ms
+Iteration 9 - CPU to GPU2 transfer: 16 ms
+Iteration 9 - GPU2 compression: 2 ms
+
+Total time taken for all iterations: 14386 milliseconds
+
+Run 2 of gpu_cpu_gpu_compression:
+Iteration 0 - GPU1 data generation: 1408 ms
+Iteration 0 - GPU1 to CPU transfer: 15 ms
+Iteration 0 - CPU to GPU2 transfer: 16 ms
+Iteration 0 - GPU2 compression: 3 ms
+
+Iteration 1 - GPU1 data generation: 1404 ms
+Iteration 1 - GPU1 to CPU transfer: 15 ms
+Iteration 1 - CPU to GPU2 transfer: 16 ms
+Iteration 1 - GPU2 compression: 2 ms
+
+Iteration 2 - GPU1 data generation: 1403 ms
+Iteration 2 - GPU1 to CPU transfer: 15 ms
+Iteration 2 - CPU to GPU2 transfer: 16 ms
+Iteration 2 - GPU2 compression: 2 ms
+
+Iteration 3 - GPU1 data generation: 1403 ms
+Iteration 3 - GPU1 to CPU transfer: 15 ms
+Iteration 3 - CPU to GPU2 transfer: 16 ms
+Iteration 3 - GPU2 compression: 2 ms
+
+Iteration 4 - GPU1 data generation: 1401 ms
+Iteration 4 - GPU1 to CPU transfer: 15 ms
+Iteration 4 - CPU to GPU2 transfer: 16 ms
+Iteration 4 - GPU2 compression: 2 ms
+
+Iteration 5 - GPU1 data generation: 1406 ms
+Iteration 5 - GPU1 to CPU transfer: 15 ms
+Iteration 5 - CPU to GPU2 transfer: 16 ms
+Iteration 5 - GPU2 compression: 2 ms
+
+Iteration 6 - GPU1 data generation: 1403 ms
+Iteration 6 - GPU1 to CPU transfer: 15 ms
+Iteration 6 - CPU to GPU2 transfer: 16 ms
+Iteration 6 - GPU2 compression: 2 ms
+
+Iteration 7 - GPU1 data generation: 1400 ms
+Iteration 7 - GPU1 to CPU transfer: 15 ms
+Iteration 7 - CPU to GPU2 transfer: 16 ms
+Iteration 7 - GPU2 compression: 2 ms
+
+Iteration 8 - GPU1 data generation: 1406 ms
+Iteration 8 - GPU1 to CPU transfer: 15 ms
+Iteration 8 - CPU to GPU2 transfer: 16 ms
+Iteration 8 - GPU2 compression: 2 ms
+
+Iteration 9 - GPU1 data generation: 1404 ms
+Iteration 9 - GPU1 to CPU transfer: 15 ms
+Iteration 9 - CPU to GPU2 transfer: 16 ms
+Iteration 9 - GPU2 compression: 2 ms
+
+Total time taken for all iterations: 14396 milliseconds
+
+Run 3 of gpu_cpu_gpu_compression:
+Iteration 0 - GPU1 data generation: 1408 ms
+Iteration 0 - GPU1 to CPU transfer: 16 ms
+Iteration 0 - CPU to GPU2 transfer: 16 ms
+Iteration 0 - GPU2 compression: 3 ms
+
+Iteration 1 - GPU1 data generation: 1402 ms
+Iteration 1 - GPU1 to CPU transfer: 15 ms
+Iteration 1 - CPU to GPU2 transfer: 16 ms
+Iteration 1 - GPU2 compression: 2 ms
+
+Iteration 2 - GPU1 data generation: 1399 ms
+Iteration 2 - GPU1 to CPU transfer: 15 ms
+Iteration 2 - CPU to GPU2 transfer: 16 ms
+Iteration 2 - GPU2 compression: 2 ms
+
+Iteration 3 - GPU1 data generation: 1402 ms
+Iteration 3 - GPU1 to CPU transfer: 15 ms
+Iteration 3 - CPU to GPU2 transfer: 16 ms
+Iteration 3 - GPU2 compression: 2 ms
+
+Iteration 4 - GPU1 data generation: 1401 ms
+Iteration 4 - GPU1 to CPU transfer: 15 ms
+Iteration 4 - CPU to GPU2 transfer: 16 ms
+Iteration 4 - GPU2 compression: 2 ms
+
+Iteration 5 - GPU1 data generation: 1402 ms
+Iteration 5 - GPU1 to CPU transfer: 15 ms
+Iteration 5 - CPU to GPU2 transfer: 16 ms
+Iteration 5 - GPU2 compression: 2 ms
+
+Iteration 6 - GPU1 data generation: 1403 ms
+Iteration 6 - GPU1 to CPU transfer: 15 ms
+Iteration 6 - CPU to GPU2 transfer: 16 ms
+Iteration 6 - GPU2 compression: 2 ms
+
+Iteration 7 - GPU1 data generation: 1401 ms
+Iteration 7 - GPU1 to CPU transfer: 15 ms
+Iteration 7 - CPU to GPU2 transfer: 16 ms
+Iteration 7 - GPU2 compression: 2 ms
+
+Iteration 8 - GPU1 data generation: 1401 ms
+Iteration 8 - GPU1 to CPU transfer: 15 ms
+Iteration 8 - CPU to GPU2 transfer: 16 ms
+Iteration 8 - GPU2 compression: 2 ms
+
+Iteration 9 - GPU1 data generation: 1402 ms
+Iteration 9 - GPU1 to CPU transfer: 15 ms
+Iteration 9 - CPU to GPU2 transfer: 16 ms
+Iteration 9 - GPU2 compression: 2 ms
+
+Total time taken for all iterations: 14380 milliseconds
+
+Run 4 of gpu_cpu_gpu_compression:
+Iteration 0 - GPU1 data generation: 1411 ms
+Iteration 0 - GPU1 to CPU transfer: 15 ms
+Iteration 0 - CPU to GPU2 transfer: 16 ms
+Iteration 0 - GPU2 compression: 3 ms
+
+Iteration 1 - GPU1 data generation: 1400 ms
+Iteration 1 - GPU1 to CPU transfer: 15 ms
+Iteration 1 - CPU to GPU2 transfer: 16 ms
+Iteration 1 - GPU2 compression: 2 ms
+
+Iteration 2 - GPU1 data generation: 1402 ms
+Iteration 2 - GPU1 to CPU transfer: 15 ms
+Iteration 2 - CPU to GPU2 transfer: 16 ms
+Iteration 2 - GPU2 compression: 2 ms
+
+Iteration 3 - GPU1 data generation: 1400 ms
+Iteration 3 - GPU1 to CPU transfer: 15 ms
+Iteration 3 - CPU to GPU2 transfer: 16 ms
+Iteration 3 - GPU2 compression: 2 ms
+
+Iteration 4 - GPU1 data generation: 1402 ms
+Iteration 4 - GPU1 to CPU transfer: 15 ms
+Iteration 4 - CPU to GPU2 transfer: 16 ms
+Iteration 4 - GPU2 compression: 2 ms
+
+Iteration 5 - GPU1 data generation: 1403 ms
+Iteration 5 - GPU1 to CPU transfer: 15 ms
+Iteration 5 - CPU to GPU2 transfer: 16 ms
+Iteration 5 - GPU2 compression: 2 ms
+
+Iteration 6 - GPU1 data generation: 1402 ms
+Iteration 6 - GPU1 to CPU transfer: 15 ms
+Iteration 6 - CPU to GPU2 transfer: 16 ms
+Iteration 6 - GPU2 compression: 2 ms
+
+Iteration 7 - GPU1 data generation: 1402 ms
+Iteration 7 - GPU1 to CPU transfer: 15 ms
+Iteration 7 - CPU to GPU2 transfer: 16 ms
+Iteration 7 - GPU2 compression: 2 ms
+
+Iteration 8 - GPU1 data generation: 1403 ms
+Iteration 8 - GPU1 to CPU transfer: 15 ms
+Iteration 8 - CPU to GPU2 transfer: 16 ms
+Iteration 8 - GPU2 compression: 2 ms
+
+Iteration 9 - GPU1 data generation: 1404 ms
+Iteration 9 - GPU1 to CPU transfer: 15 ms
+Iteration 9 - CPU to GPU2 transfer: 16 ms
+Iteration 9 - GPU2 compression: 2 ms
+
+Total time taken for all iterations: 14388 milliseconds
+
+Run 5 of gpu_cpu_gpu_compression:
+Iteration 0 - GPU1 data generation: 1411 ms
+Iteration 0 - GPU1 to CPU transfer: 15 ms
+Iteration 0 - CPU to GPU2 transfer: 16 ms
+Iteration 0 - GPU2 compression: 3 ms
+
+Iteration 1 - GPU1 data generation: 1398 ms
+Iteration 1 - GPU1 to CPU transfer: 15 ms
+Iteration 1 - CPU to GPU2 transfer: 16 ms
+Iteration 1 - GPU2 compression: 2 ms
+
+Iteration 2 - GPU1 data generation: 1400 ms
+Iteration 2 - GPU1 to CPU transfer: 15 ms
+Iteration 2 - CPU to GPU2 transfer: 16 ms
+Iteration 2 - GPU2 compression: 2 ms
+
+Iteration 3 - GPU1 data generation: 1403 ms
+Iteration 3 - GPU1 to CPU transfer: 16 ms
+Iteration 3 - CPU to GPU2 transfer: 16 ms
+Iteration 3 - GPU2 compression: 2 ms
+
+Iteration 4 - GPU1 data generation: 1401 ms
+Iteration 4 - GPU1 to CPU transfer: 15 ms
+Iteration 4 - CPU to GPU2 transfer: 16 ms
+Iteration 4 - GPU2 compression: 2 ms
+
+Iteration 5 - GPU1 data generation: 1403 ms
+Iteration 5 - GPU1 to CPU transfer: 15 ms
+Iteration 5 - CPU to GPU2 transfer: 16 ms
+Iteration 5 - GPU2 compression: 2 ms
+
+Iteration 6 - GPU1 data generation: 1401 ms
+Iteration 6 - GPU1 to CPU transfer: 15 ms
+Iteration 6 - CPU to GPU2 transfer: 16 ms
+Iteration 6 - GPU2 compression: 2 ms
+
+Iteration 7 - GPU1 data generation: 1402 ms
+Iteration 7 - GPU1 to CPU transfer: 15 ms
+Iteration 7 - CPU to GPU2 transfer: 16 ms
+Iteration 7 - GPU2 compression: 2 ms
+
+Iteration 8 - GPU1 data generation: 1405 ms
+Iteration 8 - GPU1 to CPU transfer: 15 ms
+Iteration 8 - CPU to GPU2 transfer: 16 ms
+Iteration 8 - GPU2 compression: 2 ms
+
+Iteration 9 - GPU1 data generation: 1401 ms
+Iteration 9 - GPU1 to CPU transfer: 15 ms
+Iteration 9 - CPU to GPU2 transfer: 16 ms
+Iteration 9 - GPU2 compression: 2 ms
+
+Total time taken for all iterations: 14384 milliseconds
+
