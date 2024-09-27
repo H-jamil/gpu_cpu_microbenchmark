@@ -1,15 +1,26 @@
 #!/bin/bash
 
+# Check if the script is run with sudo
+if [ "$EUID" -ne 0 ]; then
+    echo "Please run this script with sudo"
+    exit 1
+fi
+
+# Get the name of this script
+script_name=$(basename "$0")
+
 # Array to store binary names
 binaries=()
 
-# Find all executable files in the current directory
+# Find all executable files in the current directory, excluding this script
 for file in *; do
-    if [[ -x "$file" && -f "$file" ]]; then
+    if [[ -x "$file" && -f "$file" && "$file" != "$script_name" ]]; then
         binaries+=("$file")
     fi
 done
+
 echo "Found ${#binaries[@]} binaries"
+
 # Check if any binaries were found
 if [ ${#binaries[@]} -eq 0 ]; then
     echo "No executable binaries found in the current directory."
@@ -25,7 +36,7 @@ for binary in "${binaries[@]}"; do
     
     for i in {1..5}; do
         echo "Run $i of $binary:" >> "$output_file"
-        ./"$binary" >> "$output_file" 2>&1
+        sudo ./"$binary" >> "$output_file" 2>&1
         echo "" >> "$output_file"
     done
     

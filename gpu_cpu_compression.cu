@@ -9,6 +9,7 @@
 #include <mutex>
 #include <condition_variable>
 #include <chrono>  // Add this include for high-resolution timing
+#include "energy_monitor.h"
 
 
 // Error check macro for CUDA API calls
@@ -123,6 +124,8 @@ void compress_thread_func(SafeQueue<IterationData>& queue) {
 
 int main() {
     auto total_start_time = std::chrono::high_resolution_clock::now();
+    // Start energy monitoring
+    start_energy_monitoring();
     const size_t data_size = 200 * 1024 * 1024;  // 200MB in bytes
     const int num_elements = data_size / sizeof(float);
     const int num_iterations = 10;
@@ -198,9 +201,17 @@ int main() {
     CHECK_CUDA_ERROR(cudaStreamDestroy(stream1));
     CHECK_CUDA_ERROR(cudaStreamDestroy(stream2));
 
+    // Stop energy monitoring
+    stop_energy_monitoring();
+
     auto total_end_time = std::chrono::high_resolution_clock::now();
     auto total_duration = std::chrono::duration_cast<std::chrono::milliseconds>(total_end_time - total_start_time).count();
     printf("Total time taken for all iterations: %ld milliseconds\n", total_duration);
+    printf("CPU Energy Consumed: %.6f J\n", cpu_energy);
+    printf("GPU 0 Energy Consumed: %.6f J\n", gpu_energy[0]);
+    printf("GPU 1 Energy Consumed: %.6f J\n", gpu_energy[1]);
+    printf("Total GPU Energy Consumed: %.6f J\n", gpu_energy[0] + gpu_energy[1]);
+    printf("Total Energy Consumed: %.6f J\n", cpu_energy + gpu_energy[0] + gpu_energy[1]);
 
     return 0;
 }

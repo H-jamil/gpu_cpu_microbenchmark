@@ -1,115 +1,140 @@
 Run 1 of gpu_compression:
-Time taken to generate data (iteration 0): 1409 milliseconds
+Time taken to generate data (iteration 0): 1420 milliseconds
 Time taken to compress data (iteration 0): 2 milliseconds
-Time taken to generate data (iteration 1): 1404 milliseconds
+Time taken to generate data (iteration 1): 1391 milliseconds
 Time taken to compress data (iteration 1): 2 milliseconds
-Time taken to generate data (iteration 2): 1404 milliseconds
+Time taken to generate data (iteration 2): 1397 milliseconds
 Time taken to compress data (iteration 2): 2 milliseconds
-Time taken to generate data (iteration 3): 1402 milliseconds
+Time taken to generate data (iteration 3): 1395 milliseconds
+Time taken to compress data (iteration 3): 2 milliseconds
+Time taken to generate data (iteration 4): 1395 milliseconds
+Time taken to compress data (iteration 4): 2 milliseconds
+Time taken to generate data (iteration 5): 1394 milliseconds
+Time taken to compress data (iteration 5): 2 milliseconds
+Time taken to generate data (iteration 6): 1397 milliseconds
+Time taken to compress data (iteration 6): 2 milliseconds
+Time taken to generate data (iteration 7): 1404 milliseconds
+Time taken to compress data (iteration 7): 2 milliseconds
+Time taken to generate data (iteration 8): 1403 milliseconds
+Time taken to compress data (iteration 8): 2 milliseconds
+Time taken to generate data (iteration 9): 1404 milliseconds
+Time taken to compress data (iteration 9): 2 milliseconds
+Total time taken for all iterations: 15365 milliseconds
+CPU Energy Consumed: 616.730111 J
+GPU 0 Energy Consumed: 84.727870 J
+GPU 1 Energy Consumed: 18.926173 J
+Total GPU Energy Consumed: 103.654043 J
+Total Energy Consumed: 720.384154 J
+
+Run 2 of gpu_compression:
+Time taken to generate data (iteration 0): 1413 milliseconds
+Time taken to compress data (iteration 0): 2 milliseconds
+Time taken to generate data (iteration 1): 1403 milliseconds
+Time taken to compress data (iteration 1): 2 milliseconds
+Time taken to generate data (iteration 2): 1401 milliseconds
+Time taken to compress data (iteration 2): 2 milliseconds
+Time taken to generate data (iteration 3): 1401 milliseconds
 Time taken to compress data (iteration 3): 2 milliseconds
 Time taken to generate data (iteration 4): 1402 milliseconds
 Time taken to compress data (iteration 4): 2 milliseconds
 Time taken to generate data (iteration 5): 1403 milliseconds
 Time taken to compress data (iteration 5): 2 milliseconds
-Time taken to generate data (iteration 6): 1402 milliseconds
-Time taken to compress data (iteration 6): 2 milliseconds
-Time taken to generate data (iteration 7): 1399 milliseconds
-Time taken to compress data (iteration 7): 2 milliseconds
-Time taken to generate data (iteration 8): 1400 milliseconds
-Time taken to compress data (iteration 8): 2 milliseconds
-Time taken to generate data (iteration 9): 1400 milliseconds
-Time taken to compress data (iteration 9): 2 milliseconds
-Total time taken for all iterations: 14396 milliseconds
-
-Run 2 of gpu_compression:
-Time taken to generate data (iteration 0): 1442 milliseconds
-Time taken to compress data (iteration 0): 2 milliseconds
-Time taken to generate data (iteration 1): 1402 milliseconds
-Time taken to compress data (iteration 1): 2 milliseconds
-Time taken to generate data (iteration 2): 1399 milliseconds
-Time taken to compress data (iteration 2): 2 milliseconds
-Time taken to generate data (iteration 3): 1402 milliseconds
-Time taken to compress data (iteration 3): 2 milliseconds
-Time taken to generate data (iteration 4): 1403 milliseconds
-Time taken to compress data (iteration 4): 2 milliseconds
-Time taken to generate data (iteration 5): 1404 milliseconds
-Time taken to compress data (iteration 5): 2 milliseconds
-Time taken to generate data (iteration 6): 1402 milliseconds
+Time taken to generate data (iteration 6): 1400 milliseconds
 Time taken to compress data (iteration 6): 2 milliseconds
 Time taken to generate data (iteration 7): 1400 milliseconds
 Time taken to compress data (iteration 7): 2 milliseconds
-Time taken to generate data (iteration 8): 1405 milliseconds
+Time taken to generate data (iteration 8): 1402 milliseconds
 Time taken to compress data (iteration 8): 2 milliseconds
-Time taken to generate data (iteration 9): 1406 milliseconds
+Time taken to generate data (iteration 9): 1405 milliseconds
 Time taken to compress data (iteration 9): 2 milliseconds
-Total time taken for all iterations: 14423 milliseconds
+Total time taken for all iterations: 15387 milliseconds
+CPU Energy Consumed: 618.740359 J
+GPU 0 Energy Consumed: 81.997180 J
+GPU 1 Energy Consumed: 18.285087 J
+Total GPU Energy Consumed: 100.282267 J
+Total Energy Consumed: 719.022626 J
 
 Run 3 of gpu_compression:
-Time taken to generate data (iteration 0): 1410 milliseconds
+Time taken to generate data (iteration 0): 1408 milliseconds
 Time taken to compress data (iteration 0): 2 milliseconds
 Time taken to generate data (iteration 1): 1402 milliseconds
 Time taken to compress data (iteration 1): 2 milliseconds
-Time taken to generate data (iteration 2): 1404 milliseconds
+Time taken to generate data (iteration 2): 1403 milliseconds
 Time taken to compress data (iteration 2): 2 milliseconds
-Time taken to generate data (iteration 3): 1404 milliseconds
+Time taken to generate data (iteration 3): 1401 milliseconds
 Time taken to compress data (iteration 3): 2 milliseconds
-Time taken to generate data (iteration 4): 1402 milliseconds
+Time taken to generate data (iteration 4): 1397 milliseconds
 Time taken to compress data (iteration 4): 2 milliseconds
-Time taken to generate data (iteration 5): 1406 milliseconds
+Time taken to generate data (iteration 5): 1399 milliseconds
 Time taken to compress data (iteration 5): 2 milliseconds
-Time taken to generate data (iteration 6): 1399 milliseconds
+Time taken to generate data (iteration 6): 1397 milliseconds
 Time taken to compress data (iteration 6): 2 milliseconds
-Time taken to generate data (iteration 7): 1401 milliseconds
+Time taken to generate data (iteration 7): 1404 milliseconds
 Time taken to compress data (iteration 7): 2 milliseconds
-Time taken to generate data (iteration 8): 1402 milliseconds
+Time taken to generate data (iteration 8): 1404 milliseconds
 Time taken to compress data (iteration 8): 2 milliseconds
 Time taken to generate data (iteration 9): 1401 milliseconds
 Time taken to compress data (iteration 9): 2 milliseconds
-Total time taken for all iterations: 14366 milliseconds
+Total time taken for all iterations: 15377 milliseconds
+CPU Energy Consumed: 610.631005 J
+GPU 0 Energy Consumed: 82.063973 J
+GPU 1 Energy Consumed: 17.570147 J
+Total GPU Energy Consumed: 99.634120 J
+Total Energy Consumed: 710.265125 J
 
 Run 4 of gpu_compression:
 Time taken to generate data (iteration 0): 1407 milliseconds
 Time taken to compress data (iteration 0): 2 milliseconds
-Time taken to generate data (iteration 1): 1407 milliseconds
+Time taken to generate data (iteration 1): 1399 milliseconds
 Time taken to compress data (iteration 1): 2 milliseconds
-Time taken to generate data (iteration 2): 1404 milliseconds
+Time taken to generate data (iteration 2): 1402 milliseconds
 Time taken to compress data (iteration 2): 2 milliseconds
-Time taken to generate data (iteration 3): 1403 milliseconds
-Time taken to compress data (iteration 3): 2 milliseconds
-Time taken to generate data (iteration 4): 1403 milliseconds
-Time taken to compress data (iteration 4): 2 milliseconds
-Time taken to generate data (iteration 5): 1402 milliseconds
-Time taken to compress data (iteration 5): 2 milliseconds
-Time taken to generate data (iteration 6): 1402 milliseconds
-Time taken to compress data (iteration 6): 2 milliseconds
-Time taken to generate data (iteration 7): 1399 milliseconds
-Time taken to compress data (iteration 7): 2 milliseconds
-Time taken to generate data (iteration 8): 1404 milliseconds
-Time taken to compress data (iteration 8): 2 milliseconds
-Time taken to generate data (iteration 9): 1398 milliseconds
-Time taken to compress data (iteration 9): 2 milliseconds
-Total time taken for all iterations: 14382 milliseconds
-
-Run 5 of gpu_compression:
-Time taken to generate data (iteration 0): 1409 milliseconds
-Time taken to compress data (iteration 0): 2 milliseconds
-Time taken to generate data (iteration 1): 1402 milliseconds
-Time taken to compress data (iteration 1): 2 milliseconds
-Time taken to generate data (iteration 2): 1401 milliseconds
-Time taken to compress data (iteration 2): 2 milliseconds
-Time taken to generate data (iteration 3): 1400 milliseconds
+Time taken to generate data (iteration 3): 1404 milliseconds
 Time taken to compress data (iteration 3): 2 milliseconds
 Time taken to generate data (iteration 4): 1404 milliseconds
 Time taken to compress data (iteration 4): 2 milliseconds
 Time taken to generate data (iteration 5): 1401 milliseconds
 Time taken to compress data (iteration 5): 2 milliseconds
-Time taken to generate data (iteration 6): 1404 milliseconds
+Time taken to generate data (iteration 6): 1401 milliseconds
 Time taken to compress data (iteration 6): 2 milliseconds
-Time taken to generate data (iteration 7): 1405 milliseconds
+Time taken to generate data (iteration 7): 1404 milliseconds
 Time taken to compress data (iteration 7): 2 milliseconds
-Time taken to generate data (iteration 8): 1400 milliseconds
+Time taken to generate data (iteration 8): 1405 milliseconds
 Time taken to compress data (iteration 8): 2 milliseconds
 Time taken to generate data (iteration 9): 1403 milliseconds
 Time taken to compress data (iteration 9): 2 milliseconds
-Total time taken for all iterations: 14407 milliseconds
+Total time taken for all iterations: 15392 milliseconds
+CPU Energy Consumed: 569.050545 J
+GPU 0 Energy Consumed: 76.634646 J
+GPU 1 Energy Consumed: 16.448116 J
+Total GPU Energy Consumed: 93.082762 J
+Total Energy Consumed: 662.133307 J
+
+Run 5 of gpu_compression:
+Time taken to generate data (iteration 0): 1405 milliseconds
+Time taken to compress data (iteration 0): 2 milliseconds
+Time taken to generate data (iteration 1): 1404 milliseconds
+Time taken to compress data (iteration 1): 2 milliseconds
+Time taken to generate data (iteration 2): 1404 milliseconds
+Time taken to compress data (iteration 2): 2 milliseconds
+Time taken to generate data (iteration 3): 1400 milliseconds
+Time taken to compress data (iteration 3): 2 milliseconds
+Time taken to generate data (iteration 4): 1402 milliseconds
+Time taken to compress data (iteration 4): 2 milliseconds
+Time taken to generate data (iteration 5): 1403 milliseconds
+Time taken to compress data (iteration 5): 2 milliseconds
+Time taken to generate data (iteration 6): 1406 milliseconds
+Time taken to compress data (iteration 6): 2 milliseconds
+Time taken to generate data (iteration 7): 1402 milliseconds
+Time taken to compress data (iteration 7): 2 milliseconds
+Time taken to generate data (iteration 8): 1402 milliseconds
+Time taken to compress data (iteration 8): 2 milliseconds
+Time taken to generate data (iteration 9): 1403 milliseconds
+Time taken to compress data (iteration 9): 2 milliseconds
+Total time taken for all iterations: 15394 milliseconds
+CPU Energy Consumed: 613.702835 J
+GPU 0 Energy Consumed: 78.636592 J
+GPU 1 Energy Consumed: 16.733497 J
+Total GPU Energy Consumed: 95.370089 J
+Total Energy Consumed: 709.072924 J
 
