@@ -1,0 +1,7 @@
+nvcc -O3 gpu_compression_multigpu_nvtx.cu -o gpu_compression_multigpu_nvtx -lnvToolsExt
+
+nsys profile --trace=cuda,nvtx,osrt \
+    --cuda-memory-usage=true \
+    --force-overwrite=true \
+    --output=multigpu_profile \
+    ./gpu_compression_multigpu_nvtx
